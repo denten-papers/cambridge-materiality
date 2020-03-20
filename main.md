@@ -22,7 +22,7 @@ into thought by diffusion into its bodily and social contexts. At first, we simp
 read a book, but in practice, we now must discuss where and how it is to be understood.
 
 The material conditions of a thought can often be disregarded in favor of its ideational
-content, as when we refer to Zora Neale Hurston's *Of Mule and Men* (1935) we imply equally the
+content, as when we refer to Zora Neale Hurston's *Mules and Men* (1935) we imply equally the
 numerous editions of the work, published since 1935, but crucially not her hand-written
 manuscripts nor her ethnographic notes in preparation for the novel, available in parts at the
 American Folklife Center in the Library of Congress; at the Beinecke Rare Book and Manuscript
@@ -46,9 +46,12 @@ poverty, the socio-economic realities of black publishing, and what white publis
 print, as she herself reminded her readers. These things interfere with my physical
 complacency. They force me to stand and to travel. They fracture the unity of meaning. Where I
 presumed to interpret and to explain, instead I find a multiplicity of competing possibilities,
-errors, emendations along with my own limits, incommensurate to the lived experience of
-another. The materialist method implies cognition embodied and embedded. To think in one's head
-is insufficient for understanding. We must also walk, touch, make, and be discomforted.
+errors, and emendations along with my own various limits and conditions, incommensurate to the
+lived experience of another. The materialist method implies hermeneutics embedded and embodied.
+To think in one's head is insufficient for understanding. We must also walk, touch, make, and
+be discomforted.
+
+The following three short case studies will illustrate the above in greater detail.
 
 ## Lahore
 
