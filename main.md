@@ -6,20 +6,49 @@ mode of mimesis [@aristotle, 90]. Prose describing the way a bird sings, for exa
 object of imitation in actual bird songs, further expressed in the medium of written language.
 Charlie Parker's style of playing imitated birds musically, through his saxophone, where the
 American ornithologist John James Audubon painted his birds in watercolor. Yet even this
-distinction between media fails to capture the difference in the modality of perception or
-comprehension. Of the mode Aristotle mentions only the contrast between an author "speaking in
-one's own person" and speaking with other people "engaged" in mimesis.  Here, I imagine an
-actor turning to the camera to address the audience, thus shifting the interpretive perspective
-from an intra-diegetic vantage to an extra-diegetic one. Be quiet, the actor says. But I know
-they don't mean it. The directive merely plays with convention.  Contemplated in somber silence
-of an art house theater it gains almost a philosophical significance, though I would prefer to
-watch it amongst the clamor of a local pub movie night. Some of you might similarly prefer to
-read a novel in the comfort of your own home, while others enjoy the sense of a community and
-deep discussion that happens in book clubs, on online forums, or in class. However we read, a
-text in its abstract sense must pass into print to become a reified object, a book thing. It
-will take shape on paper or on a screen and then once again rarefy into thought by diffusion
-into its bodily and social contexts. At first, we simply wanted to read a book, but in
-practice, we now must discuss where and how it is to be understood.
+distinction between media fails to capture the difference in the modality of perception (and
+comprehension also). Of the mode Aristotle mentions only the contrast between an author
+"speaking in one's own person" and speaking with "other people engaged" in mimesis.  Imagine,
+for example, a film actor turning to the camera to address their audience, thus shifting the
+interpretive perspective from an intra-diegetic vantage to an extra-diegetic one. Sit still,
+our actor says.  The directive plays with the convention of theater-going.  Contemplated in
+somber silence of an art house theater it gains almost a philosophical significance, though I
+would prefer to watch it amongst the clamor of a local pub movie night.  Some of you might
+similarly prefer to read a novel in the comfort of your own home, while others enjoy the sense
+of a community and deep discussion that happens in book clubs, on online forums, or in class.
+However we read, a text in its abstract sense must pass into print to become a reified
+object---a book thing. It will take shape on paper or on a screen and then once again rarefy
+into thought by diffusion into its bodily and social contexts. At first, we simply wanted to
+read a book, but in practice, we now must discuss where and how it is to be understood.
+
+The material conditions of a thought can often be disregarded in favor of its ideational
+content, as when we refer to Zora Neale Hurston's *Of Mule and Men* (1935) we imply equally the
+numerous editions of the work, published since 1935, but crucially not her hand-written
+manuscripts nor her ethnographic notes in preparation for the novel, available in parts at the
+American Folklife Center in the Library of Congress; at the Beinecke Rare Book and Manuscript
+Library, Yale University; and in the P.K. Yonge Library of Florida History at the University of
+Florida. Once these documents come into view, they assert an inexorable pull on the content of
+the novel. Our awareness of the auto-ethnographic method at work in Hursten's prose irrevocably
+changes our understanding of the novel. Rather than seeing it as one thing, we can now perceive
+a number of related publications, notes, drafts, and manuscripts, which in their overlapping
+totality comprise the general field of the work. Matter asserts itself through the idea as we
+are reminded at once of its palpable effects on abstraction and of its palpable, shape-giving
+influence on the foundations of any thought.
+
+To become a materialist, and especially a historical materialist, as a matter of method, one
+must insist on the often inconvenient intrusion of the physical world into the realm of the
+ideal. I would prefer to sit back in my armchair and just read Hurston, heeding neither
+Gainesville  nor New Haven. I would rather forego the messiness of competing manuscripts,
+editorial intervention, international editions of the work which slightly alter Hurston's
+lexicon, the Harlem Renaissance, her problematic stance toward it, her time at Columbia
+University spent with Franz Boas and Margaret Mead, her wealth and her literary patronage, her
+poverty, the socio-economic realities of black publishing, and what white publishers won't
+print, as she herself reminded her readers. These things interfere with my physical
+complacency. They force me to stand and to travel. They fracture the unity of meaning. Where I
+presumed to interpret and to explain, instead I find a multiplicity of competing possibilities,
+errors, emendations along with my own limits, incommensurate to the lived experience of
+another. The materialist method implies cognition embodied and embedded. To think in one's head
+is insufficient for understanding. We must also walk, touch, make, and be discomforted.
 
 ## Lahore
 
