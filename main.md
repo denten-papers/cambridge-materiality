@@ -85,10 +85,26 @@ topographies. The belief in the radical embeddedness of thought prevents us from
 universal generalizations. Specific material contexts necessitate the understanding *in situ*,
 where the hardware of intellectual infrastructure meets the software of its ideational content.
 In Lahore, as elsewhere, such sites include not only institutional libraries, but also coffee
-shops, home kitchens, and outdoor book markets. 
+shops, home kitchens, and outdoor book markets.
 
-At one such location, the ;wq
+At one such location, next to the King Edward Medical University, we met with a book seller
+whom I will call Bilal, the proprietor of Bilal Old Books, a small shop specializing in
+"medical, engineering, English, Urdu, and Islamic literature." Judging by the extensive
+inventory of medical textbooks, his clientele consisted largely of local medical students. The
+volumes, many of them in English, were inexpensive though high-quality reproductions of
+cutting-edge medical literature published originally in Europe and the United States.  Such
+textbooks are either not otherwise available in Pakistan or prohibitively expensive. The alley
+leading to Bilal's is one of several connecting a small network of translators, printers,
+binders, specialty book sellers, who, together support the needs of their community.
 
+A wall of shelves unlike the others in Bilal's shop caught my attention. Here, a patron would
+find the complete works of Bertrand Russel, his Basic Writings published by Routledge Classics,
+his autobiography, his *Unpopular Essays* and *History of Western Philosophy*. Bilal as it
+turned out was a serious reader of the British philosopher. Although the books did not sell
+well, he maintained this well-stocked corner of the store to promote Russel's thought. 
+
+On the way out, after thanking Bilal for his time and hospitality, I purchased a crisp,
+off-brand copy of Russel's *On Education*, originally designated as a "Special Indian Edition."
 
 It is quite odd, if you think about it, to believe that objects somehow retain an aura or a
 trace of their history: "a handkerchief used by Princess Diana," or "the cigar box owned by
