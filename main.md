@@ -17,55 +17,78 @@ would prefer to watch it amongst the clamor of a local pub movie night.  Some of
 similarly prefer to read a novel in the comfort of your own home, while others enjoy the sense
 of a community and deep discussion that happens in book clubs, on online forums, or in class.
 However we read, a text in its abstract sense must pass into print to become a reified
-object---a book thing. It will take shape on paper or on a screen and then once again rarefy
-into thought by diffusion into its bodily and social contexts. At first, we simply wanted to
-read a book, but in practice, we now must discuss where and how it is to be understood.
+object---a book thing. It will take shape on paper or a screen, and once again rarefy into
+thought by diffusion into its physiological and social contexts. At first, we simply wanted to
+read a book, but in practice, we now must discuss where and when it is to be understood. Where
+and when matter in a way that prevents us from talking about meaning without context.
 
 The material conditions of a thought can often be disregarded in favor of its ideational
-content, as when we refer to Zora Neale Hurston's *Mules and Men* (1935) we imply equally the
-numerous editions of the work, published since 1935, but crucially not her hand-written
-manuscripts nor her ethnographic notes in preparation for the novel, available in parts at the
-American Folklife Center in the Library of Congress; at the Beinecke Rare Book and Manuscript
-Library, Yale University; and in the P.K. Yonge Library of Florida History at the University of
-Florida. Once these documents come into view, they assert an inexorable pull on the content of
-the novel. Our awareness of the auto-ethnographic method at work in Hursten's prose irrevocably
-changes our understanding of the novel. Rather than seeing it as one thing, we can now perceive
-a number of related publications, notes, drafts, and manuscripts, which in their overlapping
-totality comprise the general field of the work. Matter asserts itself through the idea as we
-are reminded at once of its palpable effects on abstraction and of its palpable, shape-giving
-influence on the foundations of any thought.
+content. When we refer to Zora Neale Hurston's collection of African-American folklore
+published under the title *Mules and Men* in 1935, we denote equally the numerous editions of
+the work, published since 1935. This allocation usually implies neither her notes nor her
+manuscripts, available in parts at the American Folklife Center in the Library of Congress; at
+the Beinecke Rare Book and Manuscript Library, Yale University; and in the P.K. Yonge Library
+of Florida History at the University of Florida.  However, once these documents come into view,
+they assert an inexorable pull on the content of the published work. Our awareness of the
+auto-ethnographic method at work in Hurston's prose irrevocably changes our perception of the
+novel. Rather than seeing it as one thing, we can now perceive a number of related
+publications, notes, drafts, and manuscripts, which in their overlapping totality comprise the
+general field of the work.  Matter asserts itself through the idea. We are reminded at once of
+its palpable effects on abstraction and of its shape-giving influence on the foundations of any
+thought.
 
-To become a materialist, and especially a historical materialist, as a matter of method, one
+As a matter of method, to become a materialist, and especially one of a historical ilk, one
 must insist on the often inconvenient intrusion of the physical world into the realm of the
 ideal. I would prefer to sit back in my armchair and just read Hurston, heeding neither
-Gainesville  nor New Haven. I would rather forego the messiness of competing manuscripts,
-editorial intervention, international editions of the work which slightly alter Hurston's
+Gainesville nor New Haven. I would rather forego the messiness of competing manuscripts,
+editorial interventions, international editions of the work which slightly alter Hurston's
 lexicon, the Harlem Renaissance, her problematic stance toward it, her time at Columbia
 University spent with Franz Boas and Margaret Mead, her wealth and her literary patronage, her
-poverty, the socio-economic realities of black publishing, and what white publishers won't
-print, as she herself reminded her readers. These things interfere with my physical
-complacency. They force me to stand and to travel. They fracture the unity of meaning. Where I
-presumed to interpret and to explain, instead I find a multiplicity of competing possibilities,
-errors, and emendations along with my own various limits and conditions, incommensurate to the
-lived experience of another. The materialist method implies hermeneutics embedded and embodied.
-To think in one's head is insufficient for understanding. We must also walk, touch, make, and
-be discomforted.
+poverty, the socio-economic realities of black publishing, or, in her own words, "what white
+publishers won't print" (the title of an essay she published in the *Negro Digest* in 1950).
+These things interfere with my physical complacency. They force me to stand and to travel. They
+fracture the unity of meaning. Where I presumed to interpret and to explain, instead I find a
+multiplicity of competing possibilities, errors, and emendations along with my own various
+limits and conditions, incommensurate to the lived experience of another. The materialist
+method entails hermeneutics embedded and embodied.  To think in one's head is insufficient for
+understanding: we must also walk, touch, make, and be discomforted.
 
-The following three short case studies will illustrate the above in greater detail.
+## Bertrand Russel in Lahore
 
-## Lahore
+In March of 2018, members of my research group and I traveled to Lahore, Pakistan under the
+invitation from the Archives and Libraries Department, in Government of the Punjab and the
+Punjab Information Technology Board. We were there to present on "Architectures of Knowledge,"
+a topic that for me meant the involvement with material culture of print, including the study
+of book-sharing communities, do-it-yourself book scanning, and illicit archives. As part of the
+week's program, we toured the Civil Secretariat complex which houses the Punjab Archives in the
+storied Tomb of Anarkali---a solid, octagonal, building that witnessed the Mughal Empire,
+colonial rule, and the partition.
 
-The precarity of the interpritive 
+The Punjab Archives mostly contain records related to the socio-economic and political history
+of the region, from the nineteenth and twentieth century. On location, we observed library
+staff treat a stack of fragile materials in a giant metal autoclave chamber, which was filled
+with poisonous gas to destroy mold and insects. Bundles of government records were packaged in
+large, white sacks, labeled in red and blue ink reading "Persian Records," "General Medical,"
+and "Revenue Agriculture." Ribboned file folders signalled their provenance in a mixture of
+print and cursive, indicating such government agencies as Punjab Civil Secretariat or the Home
+Department. An exhibition of rare books and manuscripts was arranged around the tomb itself.
+The archivist ushered us into a tall, tiered room, where balconies, ladders, and metal
+scaffolding that framed the neat rows of small, square storage compartments extending several
+stories upward to the ceiling.
 
-vault
-bertrand russel
-book bazaar
+I was invited ostensibly as an expert in the digitization of records, to advise on things like
+document scanning, optical character recognition, and sustainable digital preservation
+practices. But I was also in a sense trespassing, arriving with no relevant language skills and
+having only a cursory familiarity with the region's history. I therefore listened and observed
+with a naive heart. Lahore's rich intellectual traditions encompassed multiple, variegated
+topographies. The belief in the radical embeddedness of thought prevents us from making
+universal generalizations. Specific material contexts necessitate the understanding *in situ*,
+where the hardware of intellectual infrastructure meets the software of its ideational content.
+In Lahore, as elsewhere, such sites include not only institutional libraries, but also coffee
+shops, home kitchens, and outdoor book markets. 
 
-## American Dirt
+At one such location, the ;wq
 
-Bodily and social contexts.
-
-## Guns, Handbags, and Vodka
 
 It is quite odd, if you think about it, to believe that objects somehow retain an aura or a
 trace of their history: "a handkerchief used by Princess Diana," or "the cigar box owned by
@@ -88,18 +111,17 @@ tradition which is the obverse of the contemporary crisis and renewal of mankind
 forms like film and photography also "emancipates the work of art from its parasitical
 dependence on ritual" [@benjamin_work_1969, 217-253]. One could read Benjamin's famous essay as
 a piece of technological nostalgia, or as an expose on the magic and superstition latent in
-modernist art. Crisis or emancipation? Benjamin feels both, and in doing so he captures the
+modernist art. Crisis or emancipation? Benjamin felt both, and in doing so he captured the
 metaphysical anxiety of the modern age. We desire for our Vermeers to stay special but also for
 a Vermeer to hang in every home, peering back at us from a multitude of anonymous
 reproductions.
 
 The modern world faces the challenge of authenticity, which we have only began to assimilate:
 politically, economically, and philosophically. The ubiquitous holographic certificate of
-authenticity on a luxury handbag or on a "Digital Versatile Disk" (how antiquated the DVD
-sounds already!) is a cheap band-aid hiding the immaterial nature of these artifacts. Fashion
-and software companies are reluctant to talk publicly about piracy,[^ln11-counter] because the
-so called "knock-offs" are essentially exact duplicates, often "leaked" from the very same
-factories producing the original.
+authenticity on a luxury handbag or on a Digital Versatile Disk (DVD) is a cheap band-aid
+hiding the immaterial nature of these artifacts. Fashion and software companies are reluctant
+to talk publicly about piracy, because the so called "knock-offs" are essentially exact
+duplicates, often "leaked" from the very same factories producing the original.
 
 Note that it makes no sense to talk about "what was meant" by the designer of the handbag, the
 way textual critic may talk about authorial intention. Nor would it make sense to "correct"
@@ -149,3 +171,18 @@ and rights to speech. Where does that leave the practice of textual criticism? I
 there can be no distinction between works and texts. Unlike millions of reproduced Vermeers
 (which no doubt occupy this world in the form of postcards, posters, and photographs), text is
 text. It lies before us in glorious flatness, as thick as a sheet of paper.
+
+## Lahore
+
+In March of 2018, 
+
+vault
+bertrand russel
+book bazaar
+
+## American Dirt
+
+Bodily and social contexts.
+
+## Guns, Handbags, and Vodka
+
