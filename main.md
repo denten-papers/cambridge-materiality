@@ -92,19 +92,48 @@ whom I will call Bilal, the proprietor of Bilal Old Books, a small shop speciali
 "medical, engineering, English, Urdu, and Islamic literature." Judging by the extensive
 inventory of medical textbooks, his clientele consisted largely of local medical students. The
 volumes, many of them in English, were inexpensive though high-quality reproductions of
-cutting-edge medical literature published originally in Europe and the United States.  Such
+cutting-edge medical literature published originally in Europe and the United States. Such
 textbooks are either not otherwise available in Pakistan or prohibitively expensive. The alley
 leading to Bilal's is one of several connecting a small network of translators, printers,
 binders, specialty book sellers, who, together support the needs of their community.
 
-A wall of shelves unlike the others in Bilal's shop caught my attention. Here, a patron would
-find the complete works of Bertrand Russel, his Basic Writings published by Routledge Classics,
+A wall of shelves unlike the others in Bilal's shop caught my attention. Here, a patron could
+find the complete works of Bertrand Russel: his Basic Writings published by Routledge Classics,
 his autobiography, his *Unpopular Essays* and *History of Western Philosophy*. Bilal as it
 turned out was a serious reader of the British philosopher. Although the books did not sell
 well, he maintained this well-stocked corner of the store to promote Russel's thought. 
 
 On the way out, after thanking Bilal for his time and hospitality, I purchased a crisp,
 off-brand copy of Russel's *On Education*, originally designated as a "Special Indian Edition."
+Such editions serve a two-fold function for the publisher. First, the British- or
+American-specific English lexicon may be substituted for its equivalent in International
+English. These changes may also include editorial suggestions specific to the region. The
+second function is economic. Publishers such as Routledge price their wares lower in the
+South-Asian market, creating a price disparity in relation to their North American and Western
+European counterparts. Textbooks and other materials are therefore changed slightly in
+arbitrary ways to prevent their resale and reuse across regional boundaries. For example, the
+"Indian Edition" of a textbook on organic chemistry will be paginated in such a way as to make
+weekly reading assignments given by an American university instructor difficult to follow.
+
+The US Supreme Court considered a case related to international editions in 2012, when the
+international conglomerate John Wiley & Sons Inc. brought a suit against Supap Kirtsaeng, a
+citizen of Thailand, and then a student who resold his textbooks purchased in Thailand in the
+United States. The case hinged on the question of whether the "first sale" doctrine can be
+limited geographically by countervailing copyright claims. The judgement in favor of Kirtsaeng
+explained that Section 106 of the US Copyright Act granted the copyright owner "certain
+exclusive rights," including those of sale and the transfer of ownership. However these rights
+were qualified by several limitations including the principle of "fair use" and "first sale."
+The "first sale" principle grants "the owner of a particular copy," the right to "sell or
+otherwise dispose of the possession" provided it was "lawfully made under this title." We can
+thus imagine owning a vinyl copy of a recent hit record, in a case where the artist and their
+music label own the general rights for distribution, but where the individual also has the
+right to dispose of this one, specific record in their possession. The first owns the right to
+the work of art in the abstract, and the second to a singular object of art. The work covers
+the idea in all of its potential instantiations, while the object is unique. In other words, I
+can resell my own copy of the hit single, but not make additional copies for distribution.
+
+Wiley
+
 
 It is quite odd, if you think about it, to believe that objects somehow retain an aura or a
 trace of their history: "a handkerchief used by Princess Diana," or "the cigar box owned by
