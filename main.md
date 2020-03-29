@@ -55,7 +55,7 @@ understanding: we must also walk, touch, make, and be discomforted.
 
 ## Bertrand Russel in Lahore
 
-In March of 2018, members of my research group and I traveled to Lahore, Pakistan under the
+In March of 2018, members of our research group and I traveled to Lahore, Pakistan under the
 invitation from the Archives and Libraries Department, in Government of the Punjab and the
 Punjab Information Technology Board. We were there to present on "Architectures of Knowledge,"
 a topic that for me meant the involvement with material culture of print, including the study
@@ -66,13 +66,13 @@ colonial rule, and the partition.
 
 The Punjab Archives mostly contain records related to the socio-economic and political history
 of the region, from the nineteenth and twentieth century. On location, we observed library
-staff treat a stack of fragile materials in a giant metal autoclave chamber, which was filled
-with poisonous gas to destroy mold and insects. Bundles of government records were packaged in
+staff treat a stack of fragile materials in a giant metal autoclave chamber, filled with
+poisonous gas to destroy mold and insects. Bundles of government records were packaged in
 large, white sacks, labeled in red and blue ink reading "Persian Records," "General Medical,"
 and "Revenue Agriculture." Ribboned file folders signalled their provenance in a mixture of
 print and cursive, indicating such government agencies as Punjab Civil Secretariat or the Home
 Department. An exhibition of rare books and manuscripts was arranged around the tomb itself.
-The archivist ushered us into a tall, tiered room, where balconies, ladders, and metal
+An archive official ushered us into a tall, tiered room, where balconies, ladders, and metal
 scaffolding that framed the neat rows of small, square storage compartments extending several
 stories upward to the ceiling.
 
@@ -97,43 +97,80 @@ textbooks are either not otherwise available in Pakistan or prohibitively expens
 leading to Bilal's is one of several connecting a small network of translators, printers,
 binders, specialty book sellers, who, together support the needs of their community.
 
-A wall of shelves unlike the others in Bilal's shop caught my attention. Here, a patron could
-find the complete works of Bertrand Russel: his Basic Writings published by Routledge Classics,
-his autobiography, his *Unpopular Essays* and *History of Western Philosophy*. Bilal as it
-turned out was a serious reader of the British philosopher. Although the books did not sell
-well, he maintained this well-stocked corner of the store to promote Russel's thought. 
+A wall of shelves unlike the others in inside the shop caught my attention. Here, a patron
+could find the complete works of Bertrand Russel: his Basic Writings published by Routledge
+Classics, his autobiography, his *Unpopular Essays* and *History of Western Philosophy*. Bilal
+as it turned out was a serious reader of the British philosopher. Although the books did not
+sell well, he maintained this well-stocked corner of the store in hopes of promoting Russel's
+thought.
 
 On the way out, after thanking Bilal for his time and hospitality, I purchased a crisp,
-off-brand copy of Russel's *On Education*, originally designated as a "Special Indian Edition."
-Such editions serve a two-fold function for the publisher. First, the British- or
+off-brand copy of Russel's *On Education*, clearly designated on the cover as a "Special Indian
+Edition." Such editions serve a two-fold function for the publisher. First, the British- or
 American-specific English lexicon may be substituted for its equivalent in International
-English. These changes may also include editorial suggestions specific to the region. The
-second function is economic. Publishers such as Routledge price their wares lower in the
-South-Asian market, creating a price disparity in relation to their North American and Western
-European counterparts. Textbooks and other materials are therefore changed slightly in
-arbitrary ways to prevent their resale and reuse across regional boundaries. For example, the
-"Indian Edition" of a textbook on organic chemistry will be paginated in such a way as to make
+English. These changes could also include editorial suggestions specific to the region, such as
+the substitution of Imperial for Metric units of measurement. The second function is economic.
+Routledge and other publishers sell their wares at a lower price in the South-Asian market,
+creating a cost disparity in relation to their North American and Western European
+counterparts. To prevent resale and reuse across regional boundaries, publishers subsequently
+introduce arbitrary differences into their international editions. A "Special Indian Edition"
+of a textbook on organic chemistry, for example, could be paginated in such a way as to make
 weekly reading assignments given by an American university instructor difficult to follow.
 
-The US Supreme Court considered a case related to international editions in 2012, when the
-international conglomerate John Wiley & Sons Inc. brought a suit against Supap Kirtsaeng, a
-citizen of Thailand, and then a student who resold his textbooks purchased in Thailand in the
-United States. The case hinged on the question of whether the "first sale" doctrine can be
-limited geographically by countervailing copyright claims. The judgement in favor of Kirtsaeng
-explained that Section 106 of the US Copyright Act granted the copyright owner "certain
-exclusive rights," including those of sale and the transfer of ownership. However these rights
-were qualified by several limitations including the principle of "fair use" and "first sale."
-The "first sale" principle grants "the owner of a particular copy," the right to "sell or
-otherwise dispose of the possession" provided it was "lawfully made under this title." We can
-thus imagine owning a vinyl copy of a recent hit record, in a case where the artist and their
-music label own the general rights for distribution, but where the individual also has the
-right to dispose of this one, specific record in their possession. The first owns the right to
-the work of art in the abstract, and the second to a singular object of art. The work covers
-the idea in all of its potential instantiations, while the object is unique. In other words, I
-can resell my own copy of the hit single, but not make additional copies for distribution.
+The US Supreme Court considered a case related to such international editions in 2012, when the
+international conglomerate John Wiley & Sons Inc. (brought a suit against Supap Kirtsaeng, a
+citizen of Thailand and then a student at the University of California, who resold textbooks
+purchased in Thailand in the United States. The case hinged on the question of whether the
+"first sale" doctrine can be limited geographically by countervailing copyright claims. The
+judgement in favor of Kirtsaeng explained that Section 106 of the US Copyright Act granted the
+copyright owner "certain exclusive rights," including those of sale and the transfer of
+ownership. However these rights were qualified by several limitations including the principle
+of "fair use" and "first sale." The "first sale" principle grants "the owner of a particular
+copy," the right to "sell or otherwise dispose of the possession" provided it was "lawfully
+made under this title." We can thus imagine owning a vinyl copy of a recent hit record, in a
+case where the artist and their music label own the general rights for distribution, but where
+the individual also has the right to dispose of this one, specific record in their possession.
+The first owns the right to the work of art in the abstract (and therefore to the first sale),
+and the second to a singular object of art, and therefore to the second, sale. In plain
+language, Kirtsaeng bought a book and sold it as a used book. But what happens when resale goes
+global? Wiley argued that the principle of "first sale" did not in fact extend to copies of
+their books purchased outside of the United States. On that view, the phrase "under this title"
+implied a geographic restriction. The court ultimately ruled in Kirtsaeng's favor, with the
+majority of opinion affirming a non-geographic understanding of the clause. The ruling conceded
+that its consequences would make the division between foreign and domestic markets through
+discriminatory pricing more difficult, if not impossible. However, it also argued that the US
+copyright law did not especially entitle such rights in the first place. Subsequent the ruling,
+international students were free to continue reselling their books.
 
-Wiley
+I do not know whether Bilal's photocopied editions of Russel's work would be considered legal
+copies under the US copyright law. The question is irrelevant to the students of Pakistan in
+the pursuit of a quality education. Our discussion concerns the material life of intellectual
+works, which, in this case, have passed through the halls of Trinity College in the United
+Kingdom, to Rutledge's international offices in New Delhi, and onto a side street of printers
+and booksellers in Lahore. The situated nature of this custody chain prevents us from treating
+anything like "literary works" as universal constructs. Meaning, at stake in reading, depends
+on the environment, transforming in circulation. Multiple communities---in this case: authors,
+students, teachers, book sellers, stock holders, and multinational publishers---diverge in
+their goals, charters, practices, socio-economic conditions, and histories. They diverge
+therefore in their understanding of the work, in a way that cannot be reconciled neatly into a
+singular Russel's *On Education*, true for all time and everywhere.
 
+The story of the book, now on my bookshelf, reminds me also of my own superfluous presence in
+Pakistan. The Government of Punjab did not need foreign expertise for digitizing their
+archives: local communities have already built a robust infrastructure to support their
+intellectual activity. Bilal's street-level network is far more engaged in the material life of
+book publishing than an average American scholar. But even on this, local level, there exist
+institutional and cultural barriers that prevent the Punjab Archives from becoming a unilateral
+thing. The object grounds the work, but also fractures it among specific lived sites. My
+reading of Russel is now forever informed by walking the streets of Lahore. In total, a
+committed materialism leads not to cultural relativism (there are no facts on which we can
+agree), but to a congruence of cultures and communities. A text emerges from the overlapping
+congruence of divergent materialities. But even this consensus, once materialized, becomes yet
+another waypoint on the topography of the work.
+
+## Hypothetical Gun Manufacture
+
+Central to our discussion on materiality so far has been the
 
 It is quite odd, if you think about it, to believe that objects somehow retain an aura or a
 trace of their history: "a handkerchief used by Princess Diana," or "the cigar box owned by
