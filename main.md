@@ -1,5 +1,5 @@
 The interpretation of texts is complicated by the fact that ideas take shape in matter. My
-words therefore reach you within a specific medium---paper, audio file, or an electronic
+words thus reach you within a specific medium---paper, audio file, or an electronic
 text---which serves as a conduit for the transmission of information. Aristotle, in his
 *Poetics*, similarly differentiated between the objects or content of art, its medium, and the
 mode of mimesis [@aristotle, 90]. Prose describing the way a bird sings, for example, finds its
@@ -58,8 +58,8 @@ understanding: we must also walk, touch, make, and be discomforted.
 In March of 2018, members of our research group and I traveled to Lahore, Pakistan under the
 invitation from the Archives and Libraries Department, in Government of the Punjab and the
 Punjab Information Technology Board. We were there to present on "Architectures of Knowledge,"
-a topic that for me meant the involvement with material culture of print, including the study
-of book-sharing communities, do-it-yourself book scanning, and illicit archives. As part of the
+a topic that for me meant the engagement with material culture of print: the study of
+book-sharing communities, do-it-yourself book scanning, and illicit archives. As part of the
 week's program, we toured the Civil Secretariat complex which houses the Punjab Archives in the
 storied Tomb of Anarkali---a solid, octagonal, building that witnessed the Mughal Empire,
 colonial rule, and the partition.
@@ -79,13 +79,13 @@ stories upward to the ceiling.
 I was invited ostensibly as an expert in the digitization of records, to advise on things like
 document scanning, optical character recognition, and sustainable digital preservation
 practices. But I was also in a sense trespassing, arriving with no relevant language skills and
-having only a cursory familiarity with the region's history. I therefore listened and observed
+having only a cursory familiarity with the region's history. Therefore, I listened and observed
 with a naive heart. Lahore's rich intellectual traditions encompassed multiple, variegated
 topographies. The belief in the radical embeddedness of thought prevents us from making
 universal generalizations. Specific material contexts necessitate the understanding *in situ*,
 where the hardware of intellectual infrastructure meets the software of its ideational content.
-In Lahore, as elsewhere, such sites include not only institutional libraries, but also coffee
-shops, home kitchens, and outdoor book markets.
+In Lahore, as elsewhere, such sites are located not only in institutional libraries, but also
+in coffee shops, home kitchens, and outdoor book markets.
 
 At one such location, next to the King Edward Medical University, we met with a book seller
 whom I will call Bilal, the proprietor of Bilal Old Books, a small shop specializing in
@@ -108,7 +108,7 @@ On the way out, after thanking Bilal for his time and hospitality, I purchased a
 off-brand copy of Russel's *On Education*, clearly designated on the cover as a "Special Indian
 Edition." Such editions serve a two-fold function for the publisher. First, the British- or
 American-specific English lexicon may be substituted for its equivalent in International
-English. These changes could also include editorial suggestions specific to the region, such as
+English. These changes could also involve editorial suggestions specific to the region, such as
 the substitution of Imperial for Metric units of measurement. The second function is economic.
 Routledge and other publishers sell their wares at a lower price in the South-Asian market,
 creating a cost disparity in relation to their North American and Western European
@@ -130,14 +130,14 @@ copy," the right to "sell or otherwise dispose of the possession" provided it wa
 made under this title." We can thus imagine owning a vinyl copy of a recent hit record, in a
 case where the artist and their music label own the general rights for distribution, but where
 the individual also has the right to dispose of this one, specific record in their possession.
-The first owns the right to the work of art in the abstract (and therefore to the first sale),
-and the second to a singular object of art, and therefore to the second, sale. In plain
-language, Kirtsaeng bought a book and sold it as a used book. But what happens when resale goes
-global? Wiley argued that the principle of "first sale" did not in fact extend to copies of
-their books purchased outside of the United States. On that view, the phrase "under this title"
-implied a geographic restriction. The court ultimately ruled in Kirtsaeng's favor, with the
-majority of opinion affirming a non-geographic understanding of the clause. The ruling conceded
-that its consequences would make the division between foreign and domestic markets through
+The first owns the right to the work of art in the abstract (and hence to the first sale), and
+the second to a singular object of art, and thereafter to the second, sale. In plain language,
+Kirtsaeng bought a book and sold it as a used book. But what happens when resale goes global?
+Wiley argued that the principle of "first sale" did not in fact extend to copies of their books
+purchased outside of the United States. On that view, the phrase "under this title" implied a
+geographic restriction. The court ultimately ruled in Kirtsaeng's favor, with the majority of
+opinion affirming a non-geographic understanding of the clause. The ruling conceded that its
+consequences would make the division between foreign and domestic markets through
 discriminatory pricing more difficult, if not impossible. However, it also argued that the US
 copyright law did not especially entitle such rights in the first place. Subsequent the ruling,
 international students were free to continue reselling their books.
@@ -151,8 +151,8 @@ and booksellers in Lahore. The situated nature of this custody chain prevents us
 anything like "literary works" as universal constructs. Meaning, at stake in reading, depends
 on the environment, transforming in circulation. Multiple communities---in this case: authors,
 students, teachers, book sellers, stock holders, and multinational publishers---diverge in
-their goals, charters, practices, socio-economic conditions, and histories. They diverge
-therefore in their understanding of the work, in a way that cannot be reconciled neatly into a
+their goals, charters, practices, socio-economic conditions, and histories. They consequently
+diverge in their understanding of the work, in a way that cannot be reconciled neatly into a
 singular Russel's *On Education*, true for all time and everywhere.
 
 The story of the book, now on my bookshelf, reminds me also of my own superfluous presence in
@@ -168,7 +168,7 @@ agree), but to a congruence of cultures and communities. A text emerges from the
 congruence of divergent materialities. But even this consensus, once materialized, becomes yet
 another waypoint on the topography of the work.
 
-## Hypothetical Gun Manufacture
+## Historical Materialism
 
 Central to our discussion on materiality so far has been the distinction between the work of
 art as an idea and an object. In this regard, the philosopher John Goodman noted the difference
@@ -180,38 +180,22 @@ thus recedes in the practice of literary criticism in favor of ideational conten
 painting is embedded in its medium, in a way that makes it difficult to extract, text adheres
 lightly, appearing more portable and more amenable to reproduction.
 
-Yet even the most ephemeral of objects can also acquire a patina of metaphysical significance.
+Yet even the most ephemeral of things can also acquire a patina of metaphysical significance.
 In "The Work of Art in the Age of Mechanical Reproduction," Walter Benjamin referred to this
 residue as an "aura." A handkerchief used by Princess Diana may be indistinguishable from any
-old handkerchief, down to a molecular level. The object becomes more valuable however when its
-noble provenance can be documented. History thus permeates the object, in away that cannot be
-reduced to physical particularities such as size, type of cloth, pattern, or the tears of
-Diana. Are we wrong to place value on the weightless tokens of history? Are we deluded into
-sentimental, magical thinking?
+old handkerchief, down to a molecular level. The article becomes more valuable however when its
+noble provenance can be documented. History thus permeates the artifact, in away that cannot be
+reduced to physical particularities such as size, type of cloth, pattern, or the Diana's tears.
+Are we wrong to place value on the weightless tokens of history?  How does this residue adhere
+to material? Are we deluded into thought that is sentimental or magical?
 
-Technologies like 3D scanning and printing increasingly reduce physical objects to their
-textual representation, as is the case with the stereo lithographic document (STL) format that
-describes objects for 3D printing.  Here, for example, I reproduce code that describes "a
-surface" of a functional gun (the code made available online by *Defense Distributed*, a
-self-described civic liberty activist group):
-
-```
-22=(
-BOUNDED_SURFACE()
-B_SPLINE_SURFACE(1,2,((#34104,#34105,#34106),(#34107,#34108,#34109)),
- .UNSPECIFIED.,.F.,.F.,.F.)
-B_SPLINE_SURFACE_WITH_KNOTS((2,2),(3,3),(15.1641909236141,15.3257778193699),
-(2.99329024107099,3.14159265358979),.UNSPECIFIED.)
-GEOMETRIC_REPRESENTATION_ITEM()
-RATIONAL_B_SPLINE_SURFACE(((1.,0.997252058758362,1.),(1.,0.997252058758362,
-1.)))
-REPRESENTATION_ITEM('')
-SURFACE()
-);
-```
-
-## American Dirt
-
-Bodily and social contexts.
-
-
+Hence, the notion of historical materialism contains within it the following contradiction. An
+idea arrives onto my bookshelves wrapped in a convenient paper receptacle, to be ingested and
+converted back into ideas that live in my head. I am eager to discuss that idea and therefore
+it is more convenient for me to omit the details of its passage---the friction and the labor
+involved. Materialist approaches to the study of text aim to reconstitute notational works in
+their socio-economic contexts: first, the architecture of the book as an object mediating
+inscription, and second, the infrastructure that has made its delivery possible. A materialism
+that is historical in addition views the object as a shape in time. A book in that sense is
+more than a perceptual thing in your field of view. It arrives already weathered by the patina
+of interpretation and marred by the dust of the ideal.
