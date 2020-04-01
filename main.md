@@ -1,26 +1,31 @@
+---
+title: Materiality
+author: Dennis Yi Tenen
+---
+
 The interpretation of texts is complicated by the fact that ideas take shape in matter. My
 words thus reach you within a specific medium---paper, audio file, or an electronic
 text---which serves as a conduit for the transmission of information. Aristotle, in his
 *Poetics*, similarly differentiated between the objects or content of art, its medium, and the
-mode of mimesis [@aristotle, 90]. Prose describing the way a bird sings, for example, finds its
-object of imitation in actual bird songs, further expressed in the medium of written language.
-Charlie Parker's style of playing imitated birds musically, through his saxophone, where the
-American ornithologist John James Audubon painted his birds in watercolor. Yet even this
-distinction between media fails to capture the difference in the modality of perception (and
-comprehension also). Of the mode Aristotle mentions only the contrast between an author
-"speaking in one's own person" and speaking with "other people engaged" in mimesis.  Consider,
-for example, a film actor turning to the camera to address their audience, thus shifting the
-interpretive perspective from an intra-diegetic vantage to an extra-diegetic one. Sit still,
-our actor says.  The directive plays with the convention of theater-going.  Contemplated in
-somber silence of an art house theater it gains almost a philosophical significance, though I
-would prefer to watch it amongst the clamor of a local pub movie night.  Some of you might
-similarly prefer to read a novel in the comfort of your own home, while others enjoy the sense
-of a community and deep discussion that happens in book clubs, on online forums, or in class.
-However we read, a text in its abstract sense must pass into print to become a reified
-object---a book thing. It will take shape on paper or a screen, and once again rarefy into
-thought by diffusion into its physiological and social contexts. At first, we simply wanted to
-read a book, but in practice, we now must discuss where and when it is to be understood. Where
-and when matter in a way that prevents us from talking about meaning without context.
+mode of mimesis. Prose describing the way a bird sings, for example, finds its object of
+imitation in actual bird songs, further expressed in the medium of written language.  Charlie
+Parker's style of playing imitated birds musically, through his saxophone, where the American
+ornithologist John James Audubon painted his birds in watercolor. Yet even this distinction
+between media fails to capture the difference in the modality of perception (and comprehension
+also). Of the mode Aristotle mentions only the contrast between an author "speaking in one's
+own person" and speaking with "other people engaged" in mimesis.  Consider, for example, a film
+actor turning to the camera to address their audience, thus shifting the interpretive
+perspective from an intra-diegetic vantage to an extra-diegetic one. Sit still, our actor says.
+The directive plays with the convention of theater-going.  Contemplated in somber silence of an
+art house theater it gains almost a philosophical significance, though I would prefer to watch
+it amongst the clamor of a local pub movie night.  Some of you might similarly prefer to read a
+novel in the comfort of your own home, while others enjoy the sense of a community and deep
+discussion that happens in book clubs, on online forums, or in class.  However we read, a text
+in its abstract sense must pass into print to become a reified object---a book thing. It will
+take shape on paper or a screen, and once again rarefy into thought by diffusion into its
+physiological and social contexts. At first, we simply wanted to read a book, but in practice,
+we now must discuss where and when it is to be understood. Where and when matter in a way that
+prevents us from talking about meaning without context.
 
 The material conditions of a thought can often be disregarded in favor of its ideational
 content. When we refer to Zora Neale Hurston's collection of African-American folklore
