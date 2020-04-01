@@ -8,7 +8,7 @@ Charlie Parker's style of playing imitated birds musically, through his saxophon
 American ornithologist John James Audubon painted his birds in watercolor. Yet even this
 distinction between media fails to capture the difference in the modality of perception (and
 comprehension also). Of the mode Aristotle mentions only the contrast between an author
-"speaking in one's own person" and speaking with "other people engaged" in mimesis.  Imagine,
+"speaking in one's own person" and speaking with "other people engaged" in mimesis.  Consider,
 for example, a film actor turning to the camera to address their audience, thus shifting the
 interpretive perspective from an intra-diegetic vantage to an extra-diegetic one. Sit still,
 our actor says.  The directive plays with the convention of theater-going.  Contemplated in
@@ -180,22 +180,33 @@ thus recedes in the practice of literary criticism in favor of ideational conten
 painting is embedded in its medium, in a way that makes it difficult to extract, text adheres
 lightly, appearing more portable and more amenable to reproduction.
 
-Yet even the most ephemeral of things can also acquire a patina of metaphysical significance.
-In "The Work of Art in the Age of Mechanical Reproduction," Walter Benjamin referred to this
-residue as an "aura." A handkerchief used by Princess Diana may be indistinguishable from any
-old handkerchief, down to a molecular level. The article becomes more valuable however when its
-noble provenance can be documented. History thus permeates the artifact, in away that cannot be
-reduced to physical particularities such as size, type of cloth, pattern, or the Diana's tears.
-Are we wrong to place value on the weightless tokens of history?  How does this residue adhere
-to material? Are we deluded into thought that is sentimental or magical?
+Yet even the most ephemeral of things can also acquire a patina of metaphysical, extra-material
+significance.  In "The Work of Art in the Age of Mechanical Reproduction," Walter Benjamin
+referred to this residue as an "aura." A handkerchief used by Princess Diana may be
+indistinguishable from any old handkerchief, down to a molecular level. The article becomes
+more valuable however when its noble provenance can be documented. History thus permeates the
+artifact, in away that cannot be reduced to physical particularities such as size, type of
+cloth, pattern, or the Diana's tears. Are we wrong to place sentimental value on the weightless
+tokens of history?  How does this residue adhere to an object?
 
 Hence, the notion of historical materialism contains within it the following contradiction. An
-idea arrives onto my bookshelves wrapped in a convenient paper receptacle, to be ingested and
-converted back into ideas that live in my head. I am eager to discuss that idea and therefore
-it is more convenient for me to omit the details of its passage---the friction and the labor
-involved. Materialist approaches to the study of text aim to reconstitute notational works in
-their socio-economic contexts: first, the architecture of the book as an object mediating
+idea arrives onto my bookshelves wrapped within a convenient paper receptacle, to be ingested
+and converted back into ideas that live in my head. I am eager to unwrap them and to discard
+the package.  Materialist approaches to the study of text aim to reconstitute notational works
+in their socio-economic contexts: first, the architecture of the book as an object mediating
 inscription, and second, the infrastructure that has made its delivery possible. A materialism
-that is historical in addition views the object as a shape in time. A book in that sense is
+that is historical in addition, views the object as a shape in time. A book in that sense is
 more than a perceptual thing in your field of view. It arrives already weathered by the patina
 of interpretation and marred by the dust of the ideal.
+
+Finally, we must hold onto both of these extensions of the object: in time and in space. In his
+visual compendium of types and methods for architectural drawing, Rendow Yee introduces the
+technique of picturing a building in its "expanded" or "exploded" view, by which the viewer is
+able to peer inside, as it were, illustrating "the nature of this structure as an assemblage of
+standardized parts," showing "how structural components relate to each other," in a way that
+also reveals "the genesis" of its construction. If we are to draw the book in in its expanded
+view, under a historical materialist paradigm, we would picture not only the object that
+appears to view, but also the history of its production: its various translations and editions;
+its accrued metadata; related scholarly articles, book reviews, and online book club
+discussions; the machinations of the language within; the handprint of typesetters and the
+warehouse workers involved in literary circulation.
