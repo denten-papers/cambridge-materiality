@@ -170,55 +170,24 @@ another waypoint on the topography of the work.
 
 ## Hypothetical Gun Manufacture
 
-Central to our discussion on materiality so far has been the
+Central to our discussion on materiality so far has been the distinction between the work of
+art as an idea and an object. In this regard, the philosopher John Goodman noted the difference
+between painting and literature. With painting, we prefer to witness the original. No matter
+how high the fidelity, a reproduction loses in perceived value, aesthetic and economic.  By
+contrast, few readers of literature care to consult original manuscripts. It is enough to know
+that a work belongs to its stated author. Any reproduction will do for the reading.  Matter
+thus recedes in the practice of literary criticism in favor of ideational content. Where
+painting is embedded in its medium, in a way that makes it difficult to extract, text adheres
+lightly, appearing more portable and more amenable to reproduction.
 
-It is quite odd, if you think about it, to believe that objects somehow retain an aura or a
-trace of their history: "a handkerchief used by Princess Diana," or "the cigar box owned by
-President Kennedy." In some real sense, the historical patina covering these objects is only
-imagined. President Kennedy's fingerprints and the tears of Princess Diana have long
-disappeared from their physical medium. Their trace cannot be reduced to "mere" physical
-characteristics: that is, to actual scratches, stains, or molecules, recoverable from the
-object. Rather, the object had to "be there" in some way, acquiring a patina of authenticity.
-"Having been there" is what gives the object value, sentimental or otherwise, in a condition
-that refuses formal reduction to a set of merely material properties. The high price
-contemporary society places on authentic artifacts is therefore a type of magical thinking.
-Walter Benjamin's famous essay on the work of art in the age of mechanical reproduction appears
-to both celebrate and lament the demise of such magic.  "The technique of reproduction detaches
-the reproduced object from the domain of tradition," wrote Benjamin. "By making many
-reproductions it substitutes a plurality of copies for a unique existence. And in permitting
-the reproduction to meet the beholder or listener in his own particular situation, it
-reactivates the object reproduced. These two processes lead to a tremendous shattering of
-tradition which is the obverse of the contemporary crisis and renewal of mankind"
-[@benjamin_work_1969, 217-253]. And yet, for Benjamin, the easy reproducibility of modern art
-forms like film and photography also "emancipates the work of art from its parasitical
-dependence on ritual" [@benjamin_work_1969, 217-253]. One could read Benjamin's famous essay as
-a piece of technological nostalgia, or as an expose on the magic and superstition latent in
-modernist art. Crisis or emancipation? Benjamin felt both, and in doing so he captured the
-metaphysical anxiety of the modern age. We desire for our Vermeers to stay special but also for
-a Vermeer to hang in every home, peering back at us from a multitude of anonymous
-reproductions.
-
-The modern world faces the challenge of authenticity, which we have only began to assimilate:
-politically, economically, and philosophically. The ubiquitous holographic certificate of
-authenticity on a luxury handbag or on a Digital Versatile Disk (DVD) is a cheap band-aid
-hiding the immaterial nature of these artifacts. Fashion and software companies are reluctant
-to talk publicly about piracy, because the so called "knock-offs" are essentially exact
-duplicates, often "leaked" from the very same factories producing the original.
-
-Note that it makes no sense to talk about "what was meant" by the designer of the handbag, the
-way textual critic may talk about authorial intention. Nor would it make sense to "correct"
-some perceived flaw in the painting by Vermeer. The practice parallel to "textual criticism" in
-visual arts is restoration. Although similar to textual criticism in its aims to recover some
-notion of the original, crucially, the practice of art restoration takes place without
-reproduction. Unlike a critical volume, which essentially reprints the work in its
-reconstructed entirety, restoration happens at the site. All "unauthorized" copies constitute a
-forgery that competes for attention with the original. One could say that for painting and
-handbags "matter is synonymous with meaning," but the sentiment strains at the limits of
-critical vocabulary in the tradition that gives us only the binaries of form and content.
-
-The context-dependence of an artifact is not even medium-specific, as Goodman would suggest.
-Texts are more allographic than handbags and paintings, but Vermeers and Louis Vuitton purses
-are also in some sense perfectly reproducible, like texts.
+Yet even the most ephemeral of objects can also acquire a patina of metaphysical significance.
+In "The Work of Art in the Age of Mechanical Reproduction," Walter Benjamin referred to this
+residue as an "aura." A handkerchief used by Princess Diana may be indistinguishable from any
+old handkerchief, down to a molecular level. The object becomes more valuable however when its
+noble provenance can be documented. History thus permeates the object, in away that cannot be
+reduced to physical particularities such as size, type of cloth, pattern, or the tears of
+Diana. Are we wrong to place value on the weightless tokens of history? Are we deluded into
+sentimental, magical thinking?
 
 Technologies like 3D scanning and printing increasingly reduce physical objects to their
 textual representation, as is the case with the stereo lithographic document (STL) format that
@@ -241,30 +210,8 @@ SURFACE()
 );
 ```
 
-This piece of code exists in its Platonic ideal *before* the physical artifact.  As costs of
-reproduction approach zero, so does the line between an object and its description. Imagine a
-world where to think "gun" is also to seamlessly bring one into existence. The erosion of
-boundaries between object and idea has a pronounced effect on the governance of goods, felt
-precisely at the distinction between the autographic and the allographic. Governments currently
-regulate the manufacture and the distribution of guns as artifacts, but how does one regulate
-guns as texts and ideas? Any such effort amounts to censorship. What was first regulated under
-the regime of property law, now increasingly falls under the regimes of intellectual property
-and rights to speech. Where does that leave the practice of textual criticism? In such a world
-there can be no distinction between works and texts. Unlike millions of reproduced Vermeers
-(which no doubt occupy this world in the form of postcards, posters, and photographs), text is
-text. It lies before us in glorious flatness, as thick as a sheet of paper.
-
-## Lahore
-
-In March of 2018, 
-
-vault
-bertrand russel
-book bazaar
-
 ## American Dirt
 
 Bodily and social contexts.
 
-## Guns, Handbags, and Vodka
 
