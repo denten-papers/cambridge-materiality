@@ -194,7 +194,18 @@ small part of the information required to facilitate my reading. A great portion
 involved specifies the electronic book's virtual affordances: the look and feel of the pages,
 the way they will be turned, built-in dictionaries and sponsored advertisements. Digital rights
 management safeguards will prevent me from making unauthorized copies of the text and from
-reading in locations for which I do not own a license. 
+reading in locations for which I do not own a license.
+
+The text I see on my screen exists also in part on my personal drive, where the instructions
+from the Mumbai server are assembled into synthetic equivalents of words, sentences, chapters,
+and pages. On screen, Russel's text takes shape as a configuration of electrodes, color
+filters, and light as it shines through the medium of liquid crystal. Modern "solid state"
+storage keeps information by charging and millions of tiny "floating gate" transistors. The
+pattern of such floating gate thus also in some sense represent Russel's *On Education*.
+
+However, my access to this underlying representation of surface data is limited my law and by
+software. The license I purchased allows me to manipulate pages only in the ways specified by
+its terms and conditions. Increasingly, a global community of activists have 
 
 ## Historical Materialism
 
