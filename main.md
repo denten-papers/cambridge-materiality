@@ -17,12 +17,12 @@ own person" and speaking with "other people engaged" in mimesis.  Consider, for 
 actor turning to the camera to address their audience, thus shifting the interpretive
 perspective from an intra-diegetic vantage to an extra-diegetic one. Sit still, our actor says.
 The directive plays with the convention of theater-going.  Contemplated in somber silence of an
-art house theater it gains almost a philosophical significance, though I would prefer to watch
-it amongst the clamor of a local pub movie night.  Some of you might similarly prefer to read a
+art house theater it almost gains philosophical significance, though I would prefer to watch it
+amongst the clamor of a local pub movie night.  Some of you might similarly prefer to read a
 novel in the comfort of your own home, while others enjoy the sense of a community and deep
-discussion that happens in book clubs, on online forums, or in class.  However we read, a text
-in its abstract sense must pass into print to become a reified object---a book thing. It will
-take shape on paper or a screen, and once again rarefy into thought by diffusion into its
+discussion that happens in book clubs, on online forums, or in class. However we read, texts in
+their abstract sense must pass into print to become reified objects---book things. They will
+take shape on paper or screen, and once again rarefy into thought by diffusion into their
 physiological and social contexts. At first, we simply wanted to read a book, but in practice,
 we now must discuss where and when it is to be understood. Where and when matter in a way that
 prevents us from talking about meaning without context.
@@ -172,6 +172,29 @@ committed materialism leads not to cultural relativism (there are no facts on wh
 agree), but to a congruence of cultures and communities. A text emerges from the overlapping
 congruence of divergent materialities. But even this consensus, once materialized, becomes yet
 another waypoint on the topography of the work.
+
+## Laminate Text
+
+The transition from print to screen further complicates the physical realities of textual
+material. In my book, *Plain Text: The Poetics of Computation*, I proposed to view digital
+media not as a homogeneous substance, but rather a laminate of technologies, inscriptions, and
+protocols. An authorized digital edition of Russel's *On Education* in English is not available
+in Pakistan. A digital copy of the Special Indian Edition can be purchased in India, from a
+major online retailer, for roughly the equivalent of $26, the same price it fetches on the
+American market. The two versions of the text, print and digital, contain ostensibly the same
+information. But they differ substantially in they way they could be read, shared, or archived.
+
+My paper copy of the book exists in a single location. I am free to gift it, resell, and
+otherwise dispose of it as I please. The digital copy is not technically an object. I have
+purchased instead a license to read the text on the retailer's proprietary platform. The very
+word "platform" suggest the drastically differing sense of software and hardware architectures
+involved. Bits arranged on drives in secured data centers somewhere in the Asia Pacific Region
+(likely in Mumbai) represent the equivalent of Russel's text. However, these comprise only a
+small part of the information required to facilitate my reading. A great portion of the code
+involved specifies the electronic book's virtual affordances: the look and feel of the pages,
+the way they will be turned, built-in dictionaries and sponsored advertisements. Digital rights
+management safeguards will prevent me from making unauthorized copies of the text and from
+reading in locations for which I do not own a license. 
 
 ## Historical Materialism
 
