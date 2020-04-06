@@ -201,11 +201,39 @@ from the Mumbai server are assembled into synthetic equivalents of words, senten
 and pages. On screen, Russel's text takes shape as a configuration of electrodes, color
 filters, and light as it shines through the medium of liquid crystal. Modern "solid state"
 storage keeps information by charging and millions of tiny "floating gate" transistors. The
-pattern of such floating gate thus also in some sense represent Russel's *On Education*.
+pattern of such floating gate thus also in some sense represent Russel's *On Education*. The
+physical properties of each laminate differ as do the data encodings at each level. It follows
+that the affordances of the text---what can be done with it---also diverge, depending on the
+access capabilities of the reader. For example, the reader on screen is often prevented from
+copying and pasting information where a user with system privileges may be able to duplicate
+the underlying data representation. We are finally dealing with multiple data formats which
+present unique challenges for their storage, manipulation, and distribution. The digital copy
+of the book I own simulates the affordances of the print book, but only to a surface extent.
+Interface metaphors occluding the material realities of digital text do not sustain the legal
+notion of ownership as applied to the physical copy.
 
-However, my access to this underlying representation of surface data is limited my law and by
-software. The license I purchased allows me to manipulate pages only in the ways specified by
-its terms and conditions. Increasingly, a global community of activists have 
+Access to the underlying layers of representation of the electronic book I purchased in the
+South Asian market is stead limited by law and by software. The license allows me to manipulate
+pages only in the ways specified by its terms and conditions. "No person shall circumvent a
+technological measure that effectively controls access to a work protected under this title,"
+according to Title 17, Chapter 12, Section 1201 of the United States Code.  Further, to
+"circumvent a technological measure," "means to descramble a scrambled work, to decrypt an
+encrypted work, or otherwise to avoid, bypass, remove, deactivate, or impair a technological
+measure, without the authority of the copyright owner" and "to manufacture, import, offer to
+the public, provide, or otherwise traffic in any technology, product, service, device,
+component, or part thereof, that is primarily designed or produced for the purpose of
+circumventing protection afforded by a technological measure that effectively protects a right
+of a copyright owner under this title in a work or a portion thereof." Thus even though I now
+own multiple copies of the same text, including one authorized for the American market---what I
+can do with each, how I choose to read them and where---differs with the edition.
+
+Legals scholars and activists have long argued.
+
+Calibri > DRM > Memory of the World.
+
+In describing the global infrastructure that surrounds the circulation of digital materials, I
+am hoping to facilitate...
+
 
 ## Historical Materialism
 
