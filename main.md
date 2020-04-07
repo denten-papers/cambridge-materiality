@@ -176,49 +176,6 @@ agree), but to a congruence of cultures and communities. A text emerges from the
 congruence of divergent materialities. But even this consensus, once materialized, becomes yet
 another waypoint on the topography of the work.
 
-## Historical Materialism
-
-Central to our discussion on materiality so far has been the distinction between the work of
-art as an idea and an object. In this regard, the philosopher John Goodman noted the difference
-between painting and literature. With painting, we prefer to witness the original. No matter
-how high the fidelity, a reproduction loses in perceived value, aesthetic and economic.  By
-contrast, few readers of literature care to consult original manuscripts. It is enough to know
-that a work belongs to its stated author. Any reproduction will do for the reading.  Matter
-thus recedes in the practice of literary criticism in favor of ideational content. Where
-painting is embedded in its medium, in a way that makes it difficult to extract, text adheres
-lightly, appearing more portable and more amenable to reproduction.
-
-Yet even the most ephemeral of things can also acquire a patina of metaphysical, extra-material
-significance.  In "The Work of Art in the Age of Mechanical Reproduction," Walter Benjamin
-referred to this residue as an "aura." A handkerchief used by Princess Diana may be
-indistinguishable from any old handkerchief, down to a molecular level. The article becomes
-more valuable however when its noble provenance can be documented. History thus permeates the
-artifact, in away that cannot be reduced to physical particularities such as size, type of
-cloth, pattern, or the Diana's tears. Are we wrong to place sentimental value on the weightless
-tokens of history?  How does this residue adhere to an object?
-
-Hence, the notion of historical materialism contains within it the following contradiction. An
-idea arrives onto my bookshelves wrapped within a convenient paper receptacle, to be ingested
-and converted back into ideas that live in my head. I am eager to unwrap them and to discard
-the package.  Materialist approaches to the study of text aim to reconstitute notational works
-in their socio-economic contexts: first, the architecture of the book as an object mediating
-inscription, and second, the infrastructure that has made its delivery possible. A materialism
-that is historical in addition, views the object as a shape in time. A book in that sense is
-more than a perceptual thing in your field of view. It arrives already weathered by the patina
-of interpretation and marred by the dust of the ideal.
-
-Finally, we must hold onto both of these extensions of the object: in time and in space. In his
-visual compendium of types and methods for architectural drawing, Rendow Yee introduces the
-technique of picturing a building in its "expanded" or "exploded" view, by which the viewer is
-able to peer inside, as it were, illustrating "the nature of this structure as an assemblage of
-standardized parts," showing "how structural components relate to each other," in a way that
-also reveals "the genesis" of its construction. If we are to draw the book in in its expanded
-view, under a historical materialist paradigm, we would picture not only the object that
-appears to view, but also the history of its production: its various translations and editions;
-its accrued metadata; related scholarly articles, book reviews, and online book club
-discussions; the machinations of the language within; the handprint of typesetters and the
-warehouse workers involved in literary circulation.
-
 ## Laminate Text
 
 The transition from print to screen further complicates the physical realities of textual
@@ -229,6 +186,26 @@ in Pakistan. A digital copy of the Special Indian Edition can be purchased in In
 major online retailer, for roughly the equivalent of $26, the same price it fetches on the
 American market. The two versions of the text, print and digital, contain ostensibly the same
 information. But they differ substantially in they way they could be read, shared, or archived.
+
+The vocabulary of user interfaces gives us a way of thinking about books as digital objects in
+a language that differs from that of literary theory or media studies. Consider US Patent
+20130219270A1, granted in 2018 to Apple, Inc. out of Cupertino, California. The patent
+materials relate to "displaying and facilitating the manipulation of electronic text of an
+electronic book (eBook) being read on an electronic device." "Much like an ordinary book," the
+authors continue:
+
+> electronic books can be used to present text and pictures to readers. Instead of ink and
+paper, however, an electronic book is a collection of digital data that software, known as an
+electronic book reader application, can interpret and present on a display.
+
+These opening statements already give us a sense of the lamination involved. The electronic
+text is at once shown to comprise "a collection digital data," its "software interpretation,"
+and "presentation on a display." These technologies are further placed secondary to what the
+patent describes as a book's "first publication," that is, some notion 
+
+Further, at the core of the electronic book lies the idea of a
+"first publication," which, according to the authors 
+
 
 My paper copy of the book exists in a single location. I am free to gift it, resell, and
 otherwise dispose of it as I please. The digital copy is not technically an object. I have
@@ -298,8 +275,51 @@ those works under DRM protections. An online project started in Croatia called M
 World has made it possible to host and to share private Calibre libraries. In 2011, a scientist
 from Kazakhstan started a website where those users with access to research literatures can
 safely provide access to those who do not. A number of so called "shadow-libraries" has emerged
-to rival corporate collections in size and coverage. These efforts exist in the legal grey area
-of international commerce. The ethics of their use however lies in deep accordance with those
-progressive ideals that would sustain fair use through unfettered intellectual activity in the
-commons.
+to rival corporate collections in size and coverage. These efforts operate in the legal grey
+area of international commerce. The ethics of their use however lies in deep accordance with
+those progressive ideals that would sustain fair use through unfettered intellectual activity
+in the commons.
 
+
+## Historical Materialism
+
+Central to our discussion on materiality so far has been the distinction between the work of
+art as an idea and an object. In this regard, the philosopher John Goodman noted the difference
+between painting and literature. With painting, we prefer to witness the original. No matter
+how high the fidelity, a reproduction loses in perceived value, aesthetic and economic.  By
+contrast, few readers of literature care to consult original manuscripts. It is enough to know
+that a work belongs to its stated author. Any reproduction will do for the reading.  Matter
+thus recedes in the practice of literary criticism in favor of ideational content. Where
+painting is embedded in its medium, in a way that makes it difficult to extract, text adheres
+lightly, appearing more portable and more amenable to reproduction.
+
+Yet even the most ephemeral of things can also acquire a patina of metaphysical, extra-material
+significance.  In "The Work of Art in the Age of Mechanical Reproduction," Walter Benjamin
+referred to this residue as an "aura." A handkerchief used by Princess Diana may be
+indistinguishable from any old handkerchief, down to a molecular level. The article becomes
+more valuable however when its noble provenance can be documented. History thus permeates the
+artifact, in away that cannot be reduced to physical particularities such as size, type of
+cloth, pattern, or the Diana's tears. Are we wrong to place sentimental value on the weightless
+tokens of history?  How does this residue adhere to an object?
+
+Hence, the notion of historical materialism contains within it the following contradiction. An
+idea arrives onto my bookshelves wrapped within a convenient paper receptacle, to be ingested
+and converted back into ideas that live in my head. I am eager to unwrap them and to discard
+the package.  Materialist approaches to the study of text aim to reconstitute notational works
+in their socio-economic contexts: first, the architecture of the book as an object mediating
+inscription, and second, the infrastructure that has made its delivery possible. A materialism
+that is historical in addition, views the object as a shape in time. A book in that sense is
+more than a perceptual thing in your field of view. It arrives already weathered by the patina
+of interpretation and marred by the dust of the ideal.
+
+Finally, we must hold onto both of these extensions of the object: in time and in space. In his
+visual compendium of types and methods for architectural drawing, Rendow Yee describes the
+technique of picturing a building in its "expanded" or "exploded" view, by which the viewer is
+able to peer inside, as it were, illustrating "the nature of this structure as an assemblage of
+standardized parts," showing "how structural components relate to each other," in a way that
+also reveals "the genesis" of its construction. If we are to draw the book in in its expanded
+view, under a historical materialist paradigm, we would picture not only the object that
+appears to view, but also the history of its production: its various translations and editions;
+its accrued metadata; related scholarly articles, book reviews, and online book club
+discussions; the machinations of the language within; the handprint of typesetters and the
+warehouse workers involved in literary circulation.
