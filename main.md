@@ -17,15 +17,17 @@ own person" and speaking with "other people engaged" in mimesis.  Consider, for 
 actor turning to the camera to address their audience, thus shifting the interpretive
 perspective from an intra-diegetic vantage to an extra-diegetic one. Sit still, our actor says.
 The directive plays with the convention of theater-going.  Contemplated in somber silence of an
-art house theater it almost gains philosophical significance, though I would prefer to watch it
-amongst the clamor of a local pub movie night.  Some of you might similarly prefer to read a
-novel in the comfort of your own home, while others enjoy the sense of a community and deep
-discussion that happens in book clubs, on online forums, or in class. However we read, texts in
-their abstract sense must pass into print to become reified objects---book things. They will
-take shape on paper or screen, and once again rarefy into thought by diffusion into their
-physiological and social contexts. At first, we simply wanted to read a book, but in practice,
-we now must discuss where and when it is to be understood. Where and when matter in a way that
-prevents us from talking about meaning without context.
+art house theater it almost gains a philosophical significance, though I would prefer to watch
+it amongst the clamor of a local pub movie night.
+
+Some of you might similarly prefer to read a novel in the comfort of your own home, while
+others enjoy the sense of a community and deep discussion that happens in book clubs, on online
+forums, or in class. However we read, texts in their abstract sense must pass into print to
+become reified objects---book things. They will take shape on paper or screen, and once again
+rarefy into thought by diffusion into their physiological and social contexts. At first, we
+simply wanted to read a book, but in practice, we now must discuss where and when it is to be
+understood. Where and when matter in a way that prevents us from talking about meaning without
+context.
 
 The material conditions of a thought can often be disregarded in favor of its ideational
 content. When we refer to Zora Neale Hurston's collection of African-American folklore
@@ -33,12 +35,12 @@ published under the title *Mules and Men* in 1935, we denote equally the numerou
 the work, published since 1935. This allocation usually implies neither her notes nor her
 manuscripts, available in parts at the American Folklife Center in the Library of Congress; at
 the Beinecke Rare Book and Manuscript Library, Yale University; and in the P.K. Yonge Library
-of Florida History at the University of Florida.  However, once these documents come into view,
-they assert an inexorable pull on the content of the published work. Our awareness of the
+of Florida History at the University of Florida.  Once these documents come into view, they
+assert an inexorable pull on the content of the published work. Our awareness of the
 auto-ethnographic method at work in Hurston's prose irrevocably changes our perception of the
 novel. Rather than seeing it as one thing, we can now perceive a number of related
 publications, notes, drafts, and manuscripts, which in their overlapping totality comprise the
-general field of the work.  Matter asserts itself through the idea. We are reminded at once of
+general field of the work. Matter asserts itself through the idea. We are reminded at once of
 its palpable effects on abstraction and of its shape-giving influence on the foundations of any
 thought.
 
@@ -49,14 +51,14 @@ Gainesville nor New Haven. I would rather forego the messiness of competing manu
 editorial interventions, international editions of the work which slightly alter Hurston's
 lexicon, the Harlem Renaissance, her problematic stance toward it, her time at Columbia
 University spent with Franz Boas and Margaret Mead, her wealth and her literary patronage, her
-poverty, the socio-economic realities of black publishing, or, in her own words, "what white
-publishers won't print" (the title of an essay she published in the *Negro Digest* in 1950).
-These things interfere with my physical complacency. They force me to stand and to travel. They
-fracture the unity of meaning. Where I presumed to interpret and to explain, instead I find a
-multiplicity of competing possibilities, errors, and emendations along with my own various
-limits and conditions, incommensurate to the lived experience of another. The materialist
-method entails hermeneutics embedded and embodied.  To think in one's head is insufficient for
-understanding: we must also walk, touch, make, and be discomforted.
+sometime poverty, the socio-economic realities of black publishing, or, in her own words, "what
+white publishers won't print" (the title of an essay she published in the *Negro Digest* in
+1950). These things interfere with my physical complacency. They force me to stand and to
+travel. They fracture the unity of meaning. Where I presumed to interpret and to explain,
+instead I find a multiplicity of competing possibilities, errors, and emendations along with my
+own various limits and conditions, incommensurate to the lived experience of another. The
+materialist method entails hermeneutics embedded and embodied. To think in one's head is
+insufficient for understanding: we must also walk, touch, make, and be discomforted.
 
 ## Bertrand Russel in Lahore
 
