@@ -227,7 +227,20 @@ of a copyright owner under this title in a work or a portion thereof." Thus even
 own multiple copies of the same text, including one authorized for the American market---what I
 can do with each, how I choose to read them and where---differs with the edition.
 
-Legals scholars and activists have long argued.
+Legals scholars and activists have long argued against such restrictions. Individually, they
+alienate readers from the physicality of printed matter. Consequently, the armature of
+intellectual activity becomes enmeshed within the larger structure of corporate surveillance
+and state control. Electronic book readers may also serve advertisements, record conversations,
+and track their users' location. In aggregate, collective alienation leads to systemic global
+inequities. Beneath the surface of electronic text, international publishing conglomerates are
+able to monopolize the means of textual production, distribution, and utilization. Publicly
+funded research is routinely funneled into private, for-profit concerns that limit access to
+those not able to pay. Whole geographic regions, in Eastern Europe and the Global South, find
+themselves on the margins of literary and scientific development. Worse still, these systemic
+inequities become difficult to perceive or to redress, due to their diffuse technological
+complexity. Where Bilal had his makeshift network of book printers and binders, most
+proprietary device for electronic readers are simply not available in Pakistan, while the means
+of their informal reproduction also lie beyond the capabilities of local artisans.
 
 Calibri > DRM > Memory of the World.
 
