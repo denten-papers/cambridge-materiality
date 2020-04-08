@@ -198,16 +198,38 @@ authors continue:
 paper, however, an electronic book is a collection of digital data that software, known as an
 electronic book reader application, can interpret and present on a display.
 
-These opening statements already give us a sense of the lamination involved. The electronic
-text is at once shown to comprise "a collection digital data," its "software interpretation,"
-and "presentation on a display." These technologies are further placed secondary to what the
-patent describes as a book's "first publication," that is, some notion 
+These opening statements already give us a sense of the laminates involved. The electronic text
+is at once shown to comprise "a collection digital data," its "software interpretation," and
+"presentation on a display." These technologies are then placed secondary to what the patent
+describes as a book's "first publication," that is, some notion of a canonical imprint, in
+relation to which all others are secondary. The patent is therefore primarily concerned with
+chain of events that begins with deriving the source of a first publication, for example as
+when the electronic reader queries a library database to confirm that the original source of
+some particular material was indeed a magazine article, as opposed to a novel. Based on that
+initial query, the system creates a "representation of the first publication," in our example,
+an appropriately formatted digital facsimile of a magazine (as opposed to a book).
+Additionally, the system places that first publication into a state, indicating a difference
+for instance between a magazine that has been newly purchased as opposed to one that already
+has been accessed and read. States and labels may further involve information about the user,
+such as their location, for example, and other items found on their bookshelf. In the words of
+the patent: "determining the state for the first publication may include determining a location
+for a first device, determining that content appearing in the electronic bookshelf is
+associated with the location, and presenting the content to the user indicating that the
+content is relevant to the location." Presenting such content may "include a ribbon in indicate
+relevance" or "placing the content using a specified book location" in relation to other
+material.
 
-Further, at the core of the electronic book lies the idea of a
-"first publication," which, according to the authors 
+I suggest reading patents like these because their language, by necessity, forces their authors
+to describe objects as if encountering the world anew, from an alien perspective.  Nothing can
+be taken for granted: not the way books look nor the way we read them. The conceptual
+displacement reveals the supposed novelty of the proposed invention, affecting also our own
+perception of now familiar objects, such as word processors and electronic books. Exacting
+technical description, diagrams, and drawings satisfies a scholarly curiosity about the inner
+workings of otherwise sealed machines that usually resist description and interpretation.
+Criticism by disassembly and deconstruction anchors theoretical insight within the material
+realities of the artifact.
 
-
-My paper copy of the book exists in a single location. I am free to gift it, resell, and
+My paper copy of Russel's book exists in a single location. I am free to gift it, resell, and
 otherwise dispose of it as I please. The digital copy is not technically an object. I have
 purchased instead a license to read the text on the retailer's proprietary platform. The very
 word "platform" suggest the drastically differing sense of software and hardware architectures
