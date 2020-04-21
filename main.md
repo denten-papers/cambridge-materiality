@@ -366,3 +366,24 @@ appears to view, but also the history of its production: its various translation
 its accrued metadata; related scholarly articles, book reviews, and online book club
 discussions; the machinations of the language within; the handprint of typesetters and the
 warehouse workers involved in literary circulation.
+
+## Works Cited
+
+Goodman, Nelson. *Languages of Art: An Approach to a Theory of Symbols*. London: Oxford
+University Press, 1968.
+
+Hurston, Zora Neale. *Folklore, Memoirs, and Other Writings: Mules and Men, Tell My Horse, Dust
+Tracks on a Road, Selected Articles*. New York: Library of America, 1995.
+
+Kirtsaeng v. John Wiley & Sons, Inc., 133 and 136 S. Ct. 1351 (Supreme Court 2013 and 2016).
+
+Russell, Bertrand. *On Education* (Special Indian Edition). London: Routledge, 2010.
+
+Tenen, Dennis. *Plain Text: The Poetics of Computation*. Palo Alto, CA: Stanford University
+Press, 2017.
+
+United States. *Copyright Law of the United States of America: Contained in Title 17 of the
+United States Code*. Washington, D.C.: Library of Congress, U.S. Copyright Office, 2016.
+
+Yee, Rendow. *Architectural Drawing : a Visual Compendium of Types and Methods*. Hoboken, NJ:
+John Wiley & Sons, 2013.
