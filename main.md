@@ -260,24 +260,27 @@ a license.
 The text I see on my screen exists also in part on my personal drive, where the instructions
 from the Mumbai server are assembled into synthetic equivalents of words, sentences, chapters,
 and pages. On screen, Russel's text takes shape as a configuration of electrodes, color
-filters, and light as it shines through the medium of liquid crystal. Modern "solid state"
-storage keeps information by charging and millions of tiny "floating gate" transistors. The
-pattern of such floating gate thus also in some sense represent Russel's *On Education*. The
-physical properties of each laminate differ as do the data encodings at each level. It follows
-that the affordances of the text---what can be done with it---also diverge, depending on the
-access capabilities of the reader. For example, the reader on screen is often prevented from
-copying and pasting information where a user with system privileges may be able to duplicate
-the underlying data representation. We are finally dealing with multiple data formats which
-present unique challenges for their storage, manipulation, and distribution. The digital copy
-of the book I own simulates the affordances of the print book, but only to a surface extent.
-Interface metaphors occluding the material realities of digital text do not sustain the legal
-notion of ownership as applied to the physical copy.
+filters, and light as it shines through glass substrates. Modern non-volatile computer memory
+storage medium keeps information by charging and discharging  millions of tiny "floating gate"
+transistors, allowing for logical operators such as NOT and AND. Russel's *On Education* is
+thus represented as a pattern of electrically charged floating gates in one stratum of
+inscription (in memory), and, in another, as a pattern of twisted nematic liquid crystal (on
+screen). The physical properties of each laminate differ as do the data encodings at each
+level. It follows that the affordances of the text---what can be done with it---also diverge,
+depending on readers' privileges. For example, a reader on screen is often prevented from
+copying and pasting information, where users with access to the underlying data structure on
+disk, are not. We are ultimately dealing with multiple data formats which present unique
+challenges for their storage, manipulation, and distribution. The digital copy of the book I
+own simulates the affordances of the print book, but only to a surface extent. I "turn pages,"
+"read," "take notes," "copy," "paste," "share," and "own" books only by metaphor. The familiar
+words occlude remote material realities: floating gates and liquid crystal, where reading and
+writing require highly specialized tools, alien gestures.
 
-Access to the underlying layers of representation of the electronic book I purchased in the
-South Asian market is stead limited by law and by software. The license allows me to manipulate
-pages only in the ways specified by its terms and conditions. "No person shall circumvent a
-technological measure that effectively controls access to a work protected under this title,"
-according to Title 17, Chapter 12, Section 1201 of the United States Code.  Further, to
+Law and software limits access to the underlying layers of representation of the electronic
+book I purchased in the South Asian market. My application license allows me to manipulate
+purchased pages only in the ways specified by its terms and conditions. According to Title 17,
+Chapter 12, Section 1201 of the United States Code, "No person shall circumvent a technological
+measure that effectively controls access to a work protected under this title." Further, to
 "circumvent a technological measure," "means to descramble a scrambled work, to decrypt an
 encrypted work, or otherwise to avoid, bypass, remove, deactivate, or impair a technological
 measure, without the authority of the copyright owner" and "to manufacture, import, offer to
@@ -288,75 +291,77 @@ of a copyright owner under this title in a work or a portion thereof." Thus even
 own multiple copies of the same text, including one authorized for the American market---what I
 can do with each, how I choose to read them and where---differs with the edition.
 
-Legals scholars and activists have long argued against such restrictions. Individually, they
-alienate readers from the physicality of printed matter. Consequently, the armature of
-intellectual activity becomes enmeshed within the larger structure of corporate surveillance
-and state control. Electronic book readers may also serve advertisements, record conversations,
-and track their users' location. In aggregate, collective alienation leads to systemic global
-inequities. Beneath the surface of electronic text, international publishing conglomerates are
-able to monopolize the means of textual production, distribution, and utilization. Publicly
-funded research is routinely funneled into private, for-profit concerns that limit access to
-those not able to pay. Whole geographic regions, in Eastern Europe and the Global South, find
-themselves on the margins of literary and scientific development. Worse still, these systemic
-inequities become difficult to perceive or to redress, due to their diffuse technological
-complexity. Where Bilal had his makeshift network of book printers and binders, most
-proprietary device for electronic readers are simply not available in Pakistan (as of writing
-this chapter), while the means of their reproduction informally also lie beyond the immediate
-capabilities of local artisans.
+Legals scholars and activists have long argued against restrictions placed on electronic text.
+Individually, such restrictions alienate readers from the physicality of printed matter.
+Consequently, the armature of intellectual activity becomes enmeshed within the larger
+structure of corporate surveillance and state control. Electronic book readers routinely serve
+advertisements, record conversations, and track their users' location. In aggregate, collective
+alienation leads to systemic global inequities. Beneath the surface of electronic text,
+international publishing conglomerates are able to monopolize the means of textual production,
+distribution, and utilization. Publicly funded research is funneled into private, for-profit
+concerns that limit access to those not able to pay. Whole geographic regions, in Eastern
+Europe and the Global South, find themselves on the margins of literary and scientific
+development. Worse still, these systemic inequities become difficult to redress or even to
+recognize, due to their diffuse technological complexity.  For example, proprietary electronic
+book readers are simply not available in Pakistan (as of writing this chapter). The means of
+their reproduction informally also lie beyond the immediate capabilities of local artisans like
+Bilal. As education is moving online, digital platforms threaten to further entrench economic
+disparities between those with access to scholarly knowledge and those without.
 
-The redress of systemic inequities that propagate through digital infrastructure requires our
-involvement. In the past decade, a community of librarians and technologists from South Asia
-have created a suite of free (as in freedom) software tools under the name of Calibre, designed
-to edit, archive, and organize electronic books in numerous, non-proprietary data formats. An
-anonymous group of "apprentices" and "custodians" have extended this platform to manipulate
-those works under DRM protections. An online project started in Croatia called Memory of the
-World has made it possible to host and to share private Calibre libraries. In 2011, a scientist
-from Kazakhstan started a website where those users with access to research literatures can
-safely provide access to those who do not. A number of so called "shadow-libraries" has emerged
-to rival corporate collections in size and coverage. These efforts operate in the legal grey
-area of international commerce. The ethics of their use however lies in deep accordance with
-those progressive ideals that would sustain fair use through unfettered intellectual activity
-in the commons.
-
+A number of recent projects attempt to redress such systemic inequities by means of epistemic,
+technological activism. For example, a community of librarians and technologists from South
+Asia have created a suite of free (as in freedom) software tools under the name of Calibre,
+designed to edit, archive, and organize electronic books in numerous, non-proprietary data
+formats. An anonymous group of "apprentices" and "custodians" have extended this platform to
+manipulate those works under DRM protections. An online project started in Croatia called
+Memory of the World has made it possible to host and to share private Calibre libraries. In
+2011, a scientist from Kazakhstan started a website where those users with access to research
+literatures can safely provide access to those who do not. Numerous so called
+"shadow-libraries" have emerged to rival corporate digital collections in size and coverage.
+These efforts operate in the legal grey area of international commerce. The ethics of their use
+however lies in deep accordance with those progressive ideals that would sustain fair use
+through unfettered intellectual activity in the commons.
 
 ## Historical Materialism
 
 Central to our discussion on materiality so far has been the distinction between the work of
-art as an idea and an object. In this regard, the philosopher John Goodman noted the difference
-between painting and literature. With painting, we prefer to witness the original. No matter
+art as an idea and as an object. In this regard, it may be useful to recall the distinction
+between painting and literature made by the philosopher Nelson Goodman in his 1968 classic
+*Languages of Art*.  With painting, he explained, we prefer to witness the original. No matter
 how high the fidelity, a reproduction loses in perceived value, aesthetic and economic.  By
 contrast, few readers of literature care to consult original manuscripts. It is enough to know
-that a work belongs to its stated author. Any reproduction will do for the reading.  Matter
+that a work belongs to its stated author.  Any reproduction will do for the reading.  Matter
 thus recedes in the practice of literary criticism in favor of ideational content. Where
-painting is embedded in its medium, in a way that makes it difficult to extract, text adheres
+paint is embedded in its medium, in a way that makes it difficult to extract, text adheres
 lightly, appearing more portable and more amenable to reproduction.
 
-Yet even the most ephemeral of things can also acquire a patina of metaphysical, extra-material
-significance.  In "The Work of Art in the Age of Mechanical Reproduction," Walter Benjamin
-referred to this residue as an "aura." A handkerchief used by Princess Diana may be
-indistinguishable from any old handkerchief, down to a molecular level. The article becomes
-more valuable however when its noble provenance can be documented. History thus permeates the
-artifact, in away that cannot be reduced to physical particularities such as size, type of
-cloth, pattern, or the Diana's tears. Are we wrong to place sentimental value on the weightless
-tokens of history?  How does this residue adhere to an object?
+Yet even the most ephemeral of things such as text can also acquire a patina of a metaphysical,
+extra-material significance. In 1936, Walter Benjamin famously referred to this residue as an
+"aura," lost by the work of art in the Age of Mechanical Reproduction. A handkerchief used by
+Princess Diana may be indistinguishable from any old handkerchief, down to a molecular level.
+The article becomes more valuable however when its noble provenance can be documented. History
+thus permeates the artifact, in a way that cannot be reduced to physical particularities such
+as size, type of cloth, pattern, or the Diana's tears.  Are we wrong to place sentimental value
+on such weightless tokens of history?  How does this residue adhere to an object?
 
 Hence, the notion of historical materialism contains within it the following contradiction. An
 idea arrives onto my bookshelves wrapped within a convenient paper receptacle, to be ingested
 and converted back into ideas that live in my head. I am eager to unwrap them and to discard
-the package.  Materialist approaches to the study of text aim to reconstitute notational works
-in their socio-economic contexts: first, the architecture of the book as an object mediating
-inscription, and second, the infrastructure that has made its delivery possible. A materialism
-that is historical in addition, views the object as a shape in time. A book in that sense is
-more than a perceptual thing in your field of view. It arrives already weathered by the patina
-of interpretation and marred by the dust of the ideal.
+the package. Materialist approaches to the study of text aim to reconstitute notational works
+within their socio-economic contexts. The book appears first as a medium, the architecture of
+inscription (book bindings, ink, shelves, stacks) and second, as a modality, its habitual
+vestments (comportment, customs, body posture). A materialism that is historical in addition
+views the object in time. A book in that sense is more than a perceptual thing in our
+perceptual field. It arrives already weathered by the patina of interpretation, marred by the
+dust of the ideal.
 
 Finally, we must hold onto both of these extensions of the object: in time and in space. In his
 visual compendium of types and methods for architectural drawing, Rendow Yee describes the
 technique of picturing a building in its "expanded" or "exploded" view, by which the viewer is
 able to peer inside, as it were, illustrating "the nature of this structure as an assemblage of
 standardized parts," showing "how structural components relate to each other," in a way that
-also reveals "the genesis" of its construction. If we are to draw the book in in its expanded
-view, under a historical materialist paradigm, we would picture not only the object that
+also reveals "the genesis" of its construction. If we are to draw the book in its expanded
+form, under the paradigm of historical materialism, we would picture not only the object that
 appears to view, but also the history of its production: its various translations and editions;
 its accrued metadata; related scholarly articles, book reviews, and online book club
 discussions; the machinations of the language within; the handprint of typesetters and the
